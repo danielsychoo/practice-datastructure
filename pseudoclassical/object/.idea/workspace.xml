@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53d8e38e-6878-4910-9dd1-7ea2fa289641" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blank/blank-stack-pseudoclassical-object.js" beforeDir="false" afterPath="$PROJECT_DIR$/blank/blank-stack-pseudoclassical-object.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/result/result-stack-pseudoclassical-object.js" beforeDir="false" afterPath="$PROJECT_DIR$/result/result-stack-pseudoclassical-object.js" afterDir="false" />
     </list>
@@ -38,7 +37,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608114788911</updated>
-      <workItem from="1608114790091" duration="619000" />
+      <workItem from="1608114790091" duration="870000" />
     </task>
     <servers />
   </component>
