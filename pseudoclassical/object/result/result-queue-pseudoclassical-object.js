@@ -16,16 +16,22 @@ Queue.prototype.enqueue = function(item) {
 
 // 'dequeue' method is for remove item ------------------------ //
 Queue.prototype.dequeue = function() {
-  let result = this._storage[this.rear];
-  delete(this._storage[this.rear]);
-  this.rear++;
-  return result;
+  if(this.rear < this.head) {
+    let result = this._storage[this.rear];
+    delete(this._storage[this.rear]);
+    this.rear++;
+    return result;
+  } else {
+    return null;
+  }
 };
 
 // 'peek' method is just retrieve the first item ------- //
 // The element retrieved does not get deleted or removed //
 Queue.prototype.peek = function() {
-  return this._storage[this.rear];
+  if(this.rear < this.head) {
+    return this._storage[this.rear];
+  } else return null;
 };
 
 // 'isEmpty' method is check a stack is empty or not. ---- //

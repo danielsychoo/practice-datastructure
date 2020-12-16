@@ -3,6 +3,7 @@
  * Type of storage: object
  */
 const Queue = function() {
+  this._storage = {};
 };
 
 // 'enqueue' method is for add item --------------------------- //

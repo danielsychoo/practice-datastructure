@@ -3,6 +3,7 @@
  * Type of storage: object
  */
 const Stack = function() {
+  this._storage = {};
 };
 
 // 'push' method is for push item ---------------------- //
