@@ -39,9 +39,9 @@ Stack.prototype.empty = function() {
 Stack.prototype.search = function(item) {
   let currentArray = Object.values(this._storage);
   if(currentArray.includes(item)) {
-    for(let i = 0; i < currentArray.length; i++) {
+    for(let i = currentArray.length; i >= 0; i--) {
       if(currentArray[i] === item) {
-        return i;
+        return currentArray.length - i;
       }
     }
   } else return -1;
