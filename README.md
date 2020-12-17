@@ -18,8 +18,8 @@
     - [My practice page](pseudoclassical/array/result/result-stack-pseudoclassical-array.js)
     
   - Queue
-    - Blank page
-    - My practice page
+    - [Blank page](pseudoclassical/array/blank/blank-queue-pseudoclassical-array.js)
+    - [My practice page](pseudoclassical/array/result/result-queue-pseudoclassical-array.js)
     
     
 <hr>
