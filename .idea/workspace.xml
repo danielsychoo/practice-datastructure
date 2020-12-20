@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c440abb6-acd9-45fe-bd5b-7bc3f730cecd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pseudoclassical/linked-list/blank-linkedlist-pseudoclassical.js" beforeDir="false" afterPath="$PROJECT_DIR$/pseudoclassical/linked-list/blank-linkedlist-pseudoclassical.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pseudoclassical/linked-list/result-linkedlist-pseudoclassical.js" beforeDir="false" afterPath="$PROJECT_DIR$/pseudoclassical/linked-list/result-linkedlist-pseudoclassical.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,7 @@
       <workItem from="1608173732896" duration="968000" />
       <workItem from="1608252707139" duration="37000" />
       <workItem from="1608433082778" duration="223000" />
-      <workItem from="1608434218757" duration="1373000" />
+      <workItem from="1608434218757" duration="2585000" />
     </task>
     <servers />
   </component>

@@ -7,20 +7,20 @@ const LinkedList = function() {
 const Node = function(value) {
 };
 
-Stack.prototype.addToTail = function(value) {
+LinkedList.prototype.addToTail = function(value) {
 };
 
-Stack.prototype.remove = function(value) {
+LinkedList.prototype.remove = function(value) {
 };
 
-Stack.prototype.getNodeAt = function(index) {
+LinkedList.prototype.getNodeAt = function(index) {
 };
 
-Stack.prototype.contains = function(value) {
+LinkedList.prototype.contains = function(value) {
 };
 
-Stack.prototype.indexOf = function(value) {
+LinkedList.prototype.indexOf = function(value) {
 };
 
-Stack.prototype.size = function() {
+LinkedList.prototype.size = function() {
 };
